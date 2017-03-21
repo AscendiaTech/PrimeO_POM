@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="PrimeO Automation Suite" duration-ms="76006" started-at="2017-03-20T13:12:10Z" finished-at="2017-03-20T13:13:26Z">
+    <groups>
+    </groups>
+    <test name="Login" duration-ms="76006" started-at="2017-03-20T13:12:10Z" finished-at="2017-03-20T13:13:26Z">
+      <class name="com.web.tests.Views.ViewTests">
+        <test-method status="PASS" signature="ATU()[pri:0, instance:com.web.tests.Views.ViewTests@22a637e7]" name="ATU" is-config="true" duration-ms="10" started-at="2017-03-20T18:42:10Z" finished-at="2017-03-20T18:42:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ATU -->
+        <test-method status="PASS" signature="testMethodPrerequisites()[pri:0, instance:com.web.tests.Views.ViewTests@22a637e7]" name="testMethodPrerequisites" is-config="true" duration-ms="4681" started-at="2017-03-20T18:42:10Z" finished-at="2017-03-20T18:42:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethodPrerequisites -->
+        <test-method status="PASS" signature="creatingView()[pri:1, instance:com.web.tests.Views.ViewTests@22a637e7]" name="creatingView" duration-ms="71295" started-at="2017-03-20T18:42:14Z" finished-at="2017-03-20T18:43:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- creatingView -->
+      </class> <!-- com.web.tests.Views.ViewTests -->
+    </test> <!-- Login -->
+  </suite> <!-- PrimeO Automation Suite -->
+</testng-results>

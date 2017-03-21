@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [SuitePO]">
+  <test name="TestPO">
+    <classes>
+      <class name="com.web.tests.Views.ViewTests"/>
+    </classes>
+  </test> <!-- TestPO -->
+</suite> <!-- Failed suite [SuitePO] -->
